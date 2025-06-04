@@ -6,7 +6,7 @@ root.append(btn)
 btn.addEventListener('click', myFunc)
 
 function myFunc() {
-    alert('Taras chmo ebanoe')
+    alert('Taras chmo ebanoe') 
 }
 
 function createElement(type, { classNames }, ...childNodes) {
